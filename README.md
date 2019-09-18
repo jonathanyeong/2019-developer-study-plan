@@ -51,6 +51,8 @@
   - Scalability
   - Data handling
   - Concurrency
+    - Deadlocks
+    - Threads
   - Containers
 - Resources
   - [Anki Web](https://apps.ankiweb.net/)
