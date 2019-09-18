@@ -29,6 +29,7 @@
     - Normal form
     - Indices
     - Performance/Profiling
+    - Joins
   - Web
     - Cookies
     - App Level Caching
